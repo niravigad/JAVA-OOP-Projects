@@ -10,7 +10,6 @@
 
 package com.company;// Fig. 10.4: Employee.java
 import java.text.ParseException;
-import java.util.Date;
 
 public abstract class Employee {
    private final String firstName;
